@@ -1,0 +1,1870 @@
+[
+ {
+  "id": 1,
+  "slug": "apple-macbook-air",
+  "name": "Apple MacBook Air",
+  "brand": "Apple",
+  "category": "Laptops",
+  "price": 1099.0,
+  "rating": 3.6,
+  "reviewCount": 2265,
+  "shortDescription": "Ultra-thin 13-inch laptop with all-day battery life.",
+  "description": "Ultra-thin 13-inch laptop with all-day battery life. The Apple MacBook Air from Apple is one of our most popular laptops. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Display",
+    "value": "13.6\" Liquid Retina"
+   },
+   {
+    "key": "Processor",
+    "value": "Apple M3"
+   },
+   {
+    "key": "Memory",
+    "value": "8 GB"
+   },
+   {
+    "key": "Storage",
+    "value": "256 GB SSD"
+   },
+   {
+    "key": "Weight",
+    "value": "1.24 kg"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 67
+ },
+ {
+  "id": 2,
+  "slug": "apple-macbook-pro-14",
+  "name": "Apple MacBook Pro 14",
+  "brand": "Apple",
+  "category": "Laptops",
+  "price": 1999.0,
+  "rating": 3.8,
+  "reviewCount": 851,
+  "shortDescription": "Pro laptop with a stunning XDR display and serious performance.",
+  "description": "Pro laptop with a stunning XDR display and serious performance. The Apple MacBook Pro 14 from Apple is one of our most popular laptops. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Display",
+    "value": "14.2\" Liquid Retina XDR"
+   },
+   {
+    "key": "Processor",
+    "value": "Apple M3 Pro"
+   },
+   {
+    "key": "Memory",
+    "value": "18 GB"
+   },
+   {
+    "key": "Storage",
+    "value": "512 GB SSD"
+   },
+   {
+    "key": "Weight",
+    "value": "1.61 kg"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 178
+ },
+ {
+  "id": 3,
+  "slug": "dell-xps-13",
+  "name": "Dell XPS 13",
+  "brand": "Dell",
+  "category": "Laptops",
+  "price": 999.0,
+  "rating": 4.4,
+  "reviewCount": 272,
+  "shortDescription": "Compact premium ultrabook with an edge-to-edge display.",
+  "description": "Compact premium ultrabook with an edge-to-edge display. The Dell XPS 13 from Dell is one of our most popular laptops. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Display",
+    "value": "13.4\" FHD+"
+   },
+   {
+    "key": "Processor",
+    "value": "Intel Core Ultra 7"
+   },
+   {
+    "key": "Memory",
+    "value": "16 GB"
+   },
+   {
+    "key": "Storage",
+    "value": "512 GB SSD"
+   },
+   {
+    "key": "Weight",
+    "value": "1.19 kg"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 12
+ },
+ {
+  "id": 4,
+  "slug": "lenovo-thinkpad-x1-carbon",
+  "name": "Lenovo ThinkPad X1 Carbon",
+  "brand": "Lenovo",
+  "category": "Laptops",
+  "price": 1449.0,
+  "rating": 3.9,
+  "reviewCount": 4151,
+  "shortDescription": "Business-class laptop with a legendary keyboard.",
+  "description": "Business-class laptop with a legendary keyboard. The Lenovo ThinkPad X1 Carbon from Lenovo is one of our most popular laptops. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Display",
+    "value": "14\" WUXGA"
+   },
+   {
+    "key": "Processor",
+    "value": "Intel Core i7"
+   },
+   {
+    "key": "Memory",
+    "value": "16 GB"
+   },
+   {
+    "key": "Storage",
+    "value": "1 TB SSD"
+   },
+   {
+    "key": "Weight",
+    "value": "1.12 kg"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 159
+ },
+ {
+  "id": 5,
+  "slug": "hp-spectre-x360",
+  "name": "HP Spectre x360",
+  "brand": "HP",
+  "category": "Laptops",
+  "price": 1299.0,
+  "rating": 4.3,
+  "reviewCount": 4476,
+  "shortDescription": "Convertible 2-in-1 with pen support and OLED option.",
+  "description": "Convertible 2-in-1 with pen support and OLED option. The HP Spectre x360 from HP is one of our most popular laptops. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Display",
+    "value": "14\" 2.8K OLED"
+   },
+   {
+    "key": "Processor",
+    "value": "Intel Core Ultra 7"
+   },
+   {
+    "key": "Memory",
+    "value": "16 GB"
+   },
+   {
+    "key": "Storage",
+    "value": "1 TB SSD"
+   },
+   {
+    "key": "Weight",
+    "value": "1.44 kg"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 112
+ },
+ {
+  "id": 6,
+  "slug": "asus-zenbook-14",
+  "name": "ASUS ZenBook 14",
+  "brand": "ASUS",
+  "category": "Laptops",
+  "price": 849.0,
+  "rating": 4.2,
+  "reviewCount": 2290,
+  "shortDescription": "Lightweight everyday laptop with a vivid OLED screen.",
+  "description": "Lightweight everyday laptop with a vivid OLED screen. The ASUS ZenBook 14 from ASUS is one of our most popular laptops. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Display",
+    "value": "14\" OLED"
+   },
+   {
+    "key": "Processor",
+    "value": "AMD Ryzen 7"
+   },
+   {
+    "key": "Memory",
+    "value": "16 GB"
+   },
+   {
+    "key": "Storage",
+    "value": "512 GB SSD"
+   },
+   {
+    "key": "Weight",
+    "value": "1.28 kg"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 212
+ },
+ {
+  "id": 7,
+  "slug": "microsoft-surface-laptop-5",
+  "name": "Microsoft Surface Laptop 5",
+  "brand": "Microsoft",
+  "category": "Laptops",
+  "price": 999.0,
+  "rating": 4.6,
+  "reviewCount": 1319,
+  "shortDescription": "Elegant touchscreen laptop with an Alcantara keyboard deck.",
+  "description": "Elegant touchscreen laptop with an Alcantara keyboard deck. The Microsoft Surface Laptop 5 from Microsoft is one of our most popular laptops. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Display",
+    "value": "13.5\" PixelSense"
+   },
+   {
+    "key": "Processor",
+    "value": "Intel Core i5"
+   },
+   {
+    "key": "Memory",
+    "value": "8 GB"
+   },
+   {
+    "key": "Storage",
+    "value": "512 GB SSD"
+   },
+   {
+    "key": "Weight",
+    "value": "1.27 kg"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 183
+ },
+ {
+  "id": 8,
+  "slug": "acer-swift-5",
+  "name": "Acer Swift 5",
+  "brand": "Acer",
+  "category": "Laptops",
+  "price": 898.99,
+  "rating": 4.0,
+  "reviewCount": 1285,
+  "shortDescription": "Feather-light laptop with an antimicrobial chassis.",
+  "description": "Feather-light laptop with an antimicrobial chassis. The Acer Swift 5 from Acer is one of our most popular laptops. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Display",
+    "value": "14\" WQXGA"
+   },
+   {
+    "key": "Processor",
+    "value": "Intel Core i7"
+   },
+   {
+    "key": "Memory",
+    "value": "16 GB"
+   },
+   {
+    "key": "Storage",
+    "value": "512 GB SSD"
+   },
+   {
+    "key": "Weight",
+    "value": "1.20 kg"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 60
+ },
+ {
+  "id": 9,
+  "slug": "google-pixel-4",
+  "name": "Google Pixel 4",
+  "brand": "Google",
+  "category": "Phones",
+  "price": 498.49,
+  "rating": 3.7,
+  "reviewCount": 3124,
+  "shortDescription": "Smart Android phone with a great camera and Motion Sense.",
+  "description": "Smart Android phone with a great camera and Motion Sense. The Google Pixel 4 from Google is one of our most popular phones. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Display",
+    "value": "5.7\" OLED 90Hz"
+   },
+   {
+    "key": "Chipset",
+    "value": "Snapdragon 855"
+   },
+   {
+    "key": "Memory",
+    "value": "6 GB"
+   },
+   {
+    "key": "Storage",
+    "value": "64 GB"
+   },
+   {
+    "key": "Camera",
+    "value": "12.2 MP + 16 MP tele"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 29
+ },
+ {
+  "id": 10,
+  "slug": "google-pixel-8-pro",
+  "name": "Google Pixel 8 Pro",
+  "brand": "Google",
+  "category": "Phones",
+  "price": 998.49,
+  "rating": 4.7,
+  "reviewCount": 2178,
+  "shortDescription": "Flagship Pixel with Tensor G3 and pro-level cameras.",
+  "description": "Flagship Pixel with Tensor G3 and pro-level cameras. The Google Pixel 8 Pro from Google is one of our most popular phones. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Display",
+    "value": "6.7\" LTPO OLED 120Hz"
+   },
+   {
+    "key": "Chipset",
+    "value": "Google Tensor G3"
+   },
+   {
+    "key": "Memory",
+    "value": "12 GB"
+   },
+   {
+    "key": "Storage",
+    "value": "128 GB"
+   },
+   {
+    "key": "Camera",
+    "value": "50 MP + 48 MP + 48 MP"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 211
+ },
+ {
+  "id": 11,
+  "slug": "apple-iphone-15",
+  "name": "Apple iPhone 15",
+  "brand": "Apple",
+  "category": "Phones",
+  "price": 799.0,
+  "rating": 4.5,
+  "reviewCount": 4404,
+  "shortDescription": "Dynamic Island, USB-C and a 48 MP main camera.",
+  "description": "Dynamic Island, USB-C and a 48 MP main camera. The Apple iPhone 15 from Apple is one of our most popular phones. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Display",
+    "value": "6.1\" Super Retina XDR"
+   },
+   {
+    "key": "Chipset",
+    "value": "A16 Bionic"
+   },
+   {
+    "key": "Memory",
+    "value": "6 GB"
+   },
+   {
+    "key": "Storage",
+    "value": "128 GB"
+   },
+   {
+    "key": "Camera",
+    "value": "48 MP + 12 MP"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 36
+ },
+ {
+  "id": 12,
+  "slug": "samsung-galaxy-s24",
+  "name": "Samsung Galaxy S24",
+  "brand": "Samsung",
+  "category": "Phones",
+  "price": 798.99,
+  "rating": 3.7,
+  "reviewCount": 2413,
+  "shortDescription": "Compact Galaxy flagship with Galaxy AI features.",
+  "description": "Compact Galaxy flagship with Galaxy AI features. The Samsung Galaxy S24 from Samsung is one of our most popular phones. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Display",
+    "value": "6.2\" Dynamic AMOLED 2X"
+   },
+   {
+    "key": "Chipset",
+    "value": "Snapdragon 8 Gen 3"
+   },
+   {
+    "key": "Memory",
+    "value": "8 GB"
+   },
+   {
+    "key": "Storage",
+    "value": "128 GB"
+   },
+   {
+    "key": "Camera",
+    "value": "50 MP + 12 MP + 10 MP"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 217
+ },
+ {
+  "id": 13,
+  "slug": "oneplus-12",
+  "name": "OnePlus 12",
+  "brand": "OnePlus",
+  "category": "Phones",
+  "price": 798.49,
+  "rating": 4.4,
+  "reviewCount": 581,
+  "shortDescription": "Blazing-fast charging and a silky 120Hz display.",
+  "description": "Blazing-fast charging and a silky 120Hz display. The OnePlus 12 from OnePlus is one of our most popular phones. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Display",
+    "value": "6.82\" LTPO AMOLED"
+   },
+   {
+    "key": "Chipset",
+    "value": "Snapdragon 8 Gen 3"
+   },
+   {
+    "key": "Memory",
+    "value": "12 GB"
+   },
+   {
+    "key": "Storage",
+    "value": "256 GB"
+   },
+   {
+    "key": "Camera",
+    "value": "50 MP + 64 MP + 48 MP"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 16
+ },
+ {
+  "id": 14,
+  "slug": "sony-xperia-1-v",
+  "name": "Sony Xperia 1 V",
+  "brand": "Sony",
+  "category": "Phones",
+  "price": 1199.0,
+  "rating": 4.6,
+  "reviewCount": 665,
+  "shortDescription": "Creator phone with a 4K display and pro camera controls.",
+  "description": "Creator phone with a 4K display and pro camera controls. The Sony Xperia 1 V from Sony is one of our most popular phones. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Display",
+    "value": "6.5\" 4K OLED"
+   },
+   {
+    "key": "Chipset",
+    "value": "Snapdragon 8 Gen 2"
+   },
+   {
+    "key": "Memory",
+    "value": "12 GB"
+   },
+   {
+    "key": "Storage",
+    "value": "256 GB"
+   },
+   {
+    "key": "Camera",
+    "value": "48 MP + 12 MP + 12 MP"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 223
+ },
+ {
+  "id": 15,
+  "slug": "motorola-edge-40",
+  "name": "Motorola Edge 40",
+  "brand": "Motorola",
+  "category": "Phones",
+  "price": 499.0,
+  "rating": 4.7,
+  "reviewCount": 3125,
+  "shortDescription": "Curved-display midranger with fast wired charging.",
+  "description": "Curved-display midranger with fast wired charging. The Motorola Edge 40 from Motorola is one of our most popular phones. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Display",
+    "value": "6.55\" pOLED 144Hz"
+   },
+   {
+    "key": "Chipset",
+    "value": "Dimensity 8020"
+   },
+   {
+    "key": "Memory",
+    "value": "8 GB"
+   },
+   {
+    "key": "Storage",
+    "value": "256 GB"
+   },
+   {
+    "key": "Camera",
+    "value": "50 MP + 13 MP"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 76
+ },
+ {
+  "id": 16,
+  "slug": "nothing-phone-2",
+  "name": "Nothing Phone 2",
+  "brand": "Nothing",
+  "category": "Phones",
+  "price": 598.99,
+  "rating": 4.4,
+  "reviewCount": 3000,
+  "shortDescription": "Distinctive transparent design with Glyph lighting.",
+  "description": "Distinctive transparent design with Glyph lighting. The Nothing Phone 2 from Nothing is one of our most popular phones. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Display",
+    "value": "6.7\" LTPO OLED"
+   },
+   {
+    "key": "Chipset",
+    "value": "Snapdragon 8+ Gen 1"
+   },
+   {
+    "key": "Memory",
+    "value": "12 GB"
+   },
+   {
+    "key": "Storage",
+    "value": "256 GB"
+   },
+   {
+    "key": "Camera",
+    "value": "50 MP + 50 MP"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 46
+ },
+ {
+  "id": 17,
+  "slug": "sony-wh-1000xm5",
+  "name": "Sony WH-1000XM5",
+  "brand": "Sony",
+  "category": "Audio",
+  "price": 398.49,
+  "rating": 4.1,
+  "reviewCount": 2199,
+  "shortDescription": "Industry-leading noise cancelling over-ear headphones.",
+  "description": "Industry-leading noise cancelling over-ear headphones. The Sony WH-1000XM5 from Sony is one of our most popular audio. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Type",
+    "value": "Over-ear"
+   },
+   {
+    "key": "ANC",
+    "value": "Yes"
+   },
+   {
+    "key": "Battery",
+    "value": "30 h"
+   },
+   {
+    "key": "Connectivity",
+    "value": "Bluetooth 5.2"
+   },
+   {
+    "key": "Weight",
+    "value": "250 g"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 184
+ },
+ {
+  "id": 18,
+  "slug": "bose-quietcomfort-ultra",
+  "name": "Bose QuietComfort Ultra",
+  "brand": "Bose",
+  "category": "Audio",
+  "price": 429.0,
+  "rating": 4.4,
+  "reviewCount": 1413,
+  "shortDescription": "Immersive spatial audio with world-class quiet.",
+  "description": "Immersive spatial audio with world-class quiet. The Bose QuietComfort Ultra from Bose is one of our most popular audio. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Type",
+    "value": "Over-ear"
+   },
+   {
+    "key": "ANC",
+    "value": "Yes"
+   },
+   {
+    "key": "Battery",
+    "value": "24 h"
+   },
+   {
+    "key": "Connectivity",
+    "value": "Bluetooth 5.3"
+   },
+   {
+    "key": "Weight",
+    "value": "254 g"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 141
+ },
+ {
+  "id": 19,
+  "slug": "apple-airpods-pro",
+  "name": "Apple AirPods Pro",
+  "brand": "Apple",
+  "category": "Audio",
+  "price": 249.0,
+  "rating": 3.8,
+  "reviewCount": 3120,
+  "shortDescription": "Wireless earbuds with adaptive audio and USB-C case.",
+  "description": "Wireless earbuds with adaptive audio and USB-C case. The Apple AirPods Pro from Apple is one of our most popular audio. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Type",
+    "value": "In-ear"
+   },
+   {
+    "key": "ANC",
+    "value": "Yes"
+   },
+   {
+    "key": "Battery",
+    "value": "6 h (30 h with case)"
+   },
+   {
+    "key": "Connectivity",
+    "value": "Bluetooth 5.3"
+   },
+   {
+    "key": "Weight",
+    "value": "5.3 g per bud"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 74
+ },
+ {
+  "id": 20,
+  "slug": "sennheiser-momentum-4",
+  "name": "Sennheiser Momentum 4",
+  "brand": "Sennheiser",
+  "category": "Audio",
+  "price": 349.0,
+  "rating": 4.5,
+  "reviewCount": 470,
+  "shortDescription": "Audiophile sound with a class-leading 60 hour battery.",
+  "description": "Audiophile sound with a class-leading 60 hour battery. The Sennheiser Momentum 4 from Sennheiser is one of our most popular audio. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Type",
+    "value": "Over-ear"
+   },
+   {
+    "key": "ANC",
+    "value": "Yes"
+   },
+   {
+    "key": "Battery",
+    "value": "60 h"
+   },
+   {
+    "key": "Connectivity",
+    "value": "Bluetooth 5.2"
+   },
+   {
+    "key": "Weight",
+    "value": "293 g"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 63
+ },
+ {
+  "id": 21,
+  "slug": "jbl-flip-6",
+  "name": "JBL Flip 6",
+  "brand": "JBL",
+  "category": "Audio",
+  "price": 129.0,
+  "rating": 4.6,
+  "reviewCount": 3298,
+  "shortDescription": "Rugged portable speaker with bold JBL Pro Sound.",
+  "description": "Rugged portable speaker with bold JBL Pro Sound. The JBL Flip 6 from JBL is one of our most popular audio. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Type",
+    "value": "Portable speaker"
+   },
+   {
+    "key": "Waterproof",
+    "value": "IP67"
+   },
+   {
+    "key": "Battery",
+    "value": "12 h"
+   },
+   {
+    "key": "Connectivity",
+    "value": "Bluetooth 5.1"
+   },
+   {
+    "key": "Weight",
+    "value": "550 g"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 73
+ },
+ {
+  "id": 22,
+  "slug": "sonos-era-100",
+  "name": "Sonos Era 100",
+  "brand": "Sonos",
+  "category": "Audio",
+  "price": 249.0,
+  "rating": 3.9,
+  "reviewCount": 4658,
+  "shortDescription": "Smart home speaker with stereo sound and Trueplay.",
+  "description": "Smart home speaker with stereo sound and Trueplay. The Sonos Era 100 from Sonos is one of our most popular audio. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Type",
+    "value": "Smart speaker"
+   },
+   {
+    "key": "Voice",
+    "value": "Alexa"
+   },
+   {
+    "key": "Connectivity",
+    "value": "Wi-Fi, Bluetooth"
+   },
+   {
+    "key": "Inputs",
+    "value": "USB-C line-in"
+   },
+   {
+    "key": "Weight",
+    "value": "2.0 kg"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 229
+ },
+ {
+  "id": 23,
+  "slug": "jabra-elite-85t",
+  "name": "Jabra Elite 85t",
+  "brand": "Jabra",
+  "category": "Audio",
+  "price": 178.49,
+  "rating": 3.9,
+  "reviewCount": 4101,
+  "shortDescription": "Comfortable earbuds with adjustable noise cancelling.",
+  "description": "Comfortable earbuds with adjustable noise cancelling. The Jabra Elite 85t from Jabra is one of our most popular audio. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Type",
+    "value": "In-ear"
+   },
+   {
+    "key": "ANC",
+    "value": "Yes"
+   },
+   {
+    "key": "Battery",
+    "value": "5.5 h (25 h with case)"
+   },
+   {
+    "key": "Connectivity",
+    "value": "Bluetooth 5.1"
+   },
+   {
+    "key": "Weight",
+    "value": "7 g per bud"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 106
+ },
+ {
+  "id": 24,
+  "slug": "audio-technica-ath-m50x",
+  "name": "Audio-Technica ATH-M50x",
+  "brand": "Audio-Technica",
+  "category": "Audio",
+  "price": 148.99,
+  "rating": 3.8,
+  "reviewCount": 1155,
+  "shortDescription": "Studio monitor headphones trusted by engineers.",
+  "description": "Studio monitor headphones trusted by engineers. The Audio-Technica ATH-M50x from Audio-Technica is one of our most popular audio. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Type",
+    "value": "Over-ear, wired"
+   },
+   {
+    "key": "Driver",
+    "value": "45 mm"
+   },
+   {
+    "key": "Impedance",
+    "value": "38 ohm"
+   },
+   {
+    "key": "Cable",
+    "value": "Detachable"
+   },
+   {
+    "key": "Weight",
+    "value": "285 g"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 68
+ },
+ {
+  "id": 25,
+  "slug": "apple-watch-series-9",
+  "name": "Apple Watch Series 9",
+  "brand": "Apple",
+  "category": "Wearables",
+  "price": 398.49,
+  "rating": 4.6,
+  "reviewCount": 3521,
+  "shortDescription": "Smarter, brighter watch with double-tap gesture.",
+  "description": "Smarter, brighter watch with double-tap gesture. The Apple Watch Series 9 from Apple is one of our most popular wearables. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Case",
+    "value": "45 mm aluminium"
+   },
+   {
+    "key": "Display",
+    "value": "Always-on Retina"
+   },
+   {
+    "key": "Battery",
+    "value": "18 h"
+   },
+   {
+    "key": "Water resistance",
+    "value": "50 m"
+   },
+   {
+    "key": "Sensors",
+    "value": "ECG, SpO2, temperature"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 234
+ },
+ {
+  "id": 26,
+  "slug": "samsung-galaxy-watch-6",
+  "name": "Samsung Galaxy Watch 6",
+  "brand": "Samsung",
+  "category": "Wearables",
+  "price": 298.99,
+  "rating": 4.1,
+  "reviewCount": 1145,
+  "shortDescription": "Wear OS smartwatch with advanced sleep coaching.",
+  "description": "Wear OS smartwatch with advanced sleep coaching. The Samsung Galaxy Watch 6 from Samsung is one of our most popular wearables. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Case",
+    "value": "44 mm aluminium"
+   },
+   {
+    "key": "Display",
+    "value": "Super AMOLED"
+   },
+   {
+    "key": "Battery",
+    "value": "40 h"
+   },
+   {
+    "key": "Water resistance",
+    "value": "5 ATM"
+   },
+   {
+    "key": "Sensors",
+    "value": "BIA, ECG, heart rate"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 135
+ },
+ {
+  "id": 27,
+  "slug": "garmin-forerunner-265",
+  "name": "Garmin Forerunner 265",
+  "brand": "Garmin",
+  "category": "Wearables",
+  "price": 448.99,
+  "rating": 3.7,
+  "reviewCount": 397,
+  "shortDescription": "Running watch with AMOLED display and training readiness.",
+  "description": "Running watch with AMOLED display and training readiness. The Garmin Forerunner 265 from Garmin is one of our most popular wearables. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Case",
+    "value": "46 mm"
+   },
+   {
+    "key": "Display",
+    "value": "AMOLED"
+   },
+   {
+    "key": "Battery",
+    "value": "13 days"
+   },
+   {
+    "key": "Water resistance",
+    "value": "5 ATM"
+   },
+   {
+    "key": "GPS",
+    "value": "Multi-band"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 225
+ },
+ {
+  "id": 28,
+  "slug": "fitbit-charge-6",
+  "name": "Fitbit Charge 6",
+  "brand": "Fitbit",
+  "category": "Wearables",
+  "price": 159.0,
+  "rating": 3.8,
+  "reviewCount": 1322,
+  "shortDescription": "Slim fitness tracker with built-in GPS and Google apps.",
+  "description": "Slim fitness tracker with built-in GPS and Google apps. The Fitbit Charge 6 from Fitbit is one of our most popular wearables. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Display",
+    "value": "Color AMOLED"
+   },
+   {
+    "key": "Battery",
+    "value": "7 days"
+   },
+   {
+    "key": "Water resistance",
+    "value": "50 m"
+   },
+   {
+    "key": "GPS",
+    "value": "Built-in"
+   },
+   {
+    "key": "Sensors",
+    "value": "ECG, EDA, heart rate"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 207
+ },
+ {
+  "id": 29,
+  "slug": "google-pixel-watch-2",
+  "name": "Google Pixel Watch 2",
+  "brand": "Google",
+  "category": "Wearables",
+  "price": 348.99,
+  "rating": 4.4,
+  "reviewCount": 3164,
+  "shortDescription": "Fitbit health tracking in a sleek domed design.",
+  "description": "Fitbit health tracking in a sleek domed design. The Google Pixel Watch 2 from Google is one of our most popular wearables. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Case",
+    "value": "41 mm aluminium"
+   },
+   {
+    "key": "Display",
+    "value": "AMOLED"
+   },
+   {
+    "key": "Battery",
+    "value": "24 h"
+   },
+   {
+    "key": "Water resistance",
+    "value": "5 ATM"
+   },
+   {
+    "key": "Sensors",
+    "value": "cEDA, ECG, temperature"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 102
+ },
+ {
+  "id": 30,
+  "slug": "oura-ring-gen3",
+  "name": "Oura Ring Gen3",
+  "brand": "Oura",
+  "category": "Wearables",
+  "price": 298.99,
+  "rating": 4.3,
+  "reviewCount": 4544,
+  "shortDescription": "Discreet smart ring for sleep, readiness and activity.",
+  "description": "Discreet smart ring for sleep, readiness and activity. The Oura Ring Gen3 from Oura is one of our most popular wearables. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Material",
+    "value": "Titanium"
+   },
+   {
+    "key": "Battery",
+    "value": "7 days"
+   },
+   {
+    "key": "Water resistance",
+    "value": "100 m"
+   },
+   {
+    "key": "Sensors",
+    "value": "PPG, temperature"
+   },
+   {
+    "key": "Weight",
+    "value": "4 g"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 225
+ },
+ {
+  "id": 31,
+  "slug": "withings-scanwatch-2",
+  "name": "Withings ScanWatch 2",
+  "brand": "Withings",
+  "category": "Wearables",
+  "price": 349.0,
+  "rating": 4.5,
+  "reviewCount": 950,
+  "shortDescription": "Hybrid smartwatch with medical-grade health sensors.",
+  "description": "Hybrid smartwatch with medical-grade health sensors. The Withings ScanWatch 2 from Withings is one of our most popular wearables. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Case",
+    "value": "42 mm stainless steel"
+   },
+   {
+    "key": "Display",
+    "value": "Hybrid PMOLED"
+   },
+   {
+    "key": "Battery",
+    "value": "30 days"
+   },
+   {
+    "key": "Water resistance",
+    "value": "10 ATM"
+   },
+   {
+    "key": "Sensors",
+    "value": "ECG, SpO2, temperature"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 179
+ },
+ {
+  "id": 32,
+  "slug": "amazfit-gtr-4",
+  "name": "Amazfit GTR 4",
+  "brand": "Amazfit",
+  "category": "Wearables",
+  "price": 198.49,
+  "rating": 4.6,
+  "reviewCount": 2798,
+  "shortDescription": "Classic round smartwatch with dual-band GPS.",
+  "description": "Classic round smartwatch with dual-band GPS. The Amazfit GTR 4 from Amazfit is one of our most popular wearables. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Case",
+    "value": "46 mm aluminium"
+   },
+   {
+    "key": "Display",
+    "value": "AMOLED"
+   },
+   {
+    "key": "Battery",
+    "value": "14 days"
+   },
+   {
+    "key": "Water resistance",
+    "value": "5 ATM"
+   },
+   {
+    "key": "GPS",
+    "value": "Dual-band"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 33
+ },
+ {
+  "id": 33,
+  "slug": "canon-eos-r6",
+  "name": "Canon EOS R6",
+  "brand": "Canon",
+  "category": "Cameras",
+  "price": 2298.49,
+  "rating": 4.2,
+  "reviewCount": 3728,
+  "shortDescription": "Full-frame mirrorless camera with superb autofocus.",
+  "description": "Full-frame mirrorless camera with superb autofocus. The Canon EOS R6 from Canon is one of our most popular cameras. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Sensor",
+    "value": "20.1 MP full-frame"
+   },
+   {
+    "key": "Video",
+    "value": "4K 60p"
+   },
+   {
+    "key": "Stabilisation",
+    "value": "8-stop IBIS"
+   },
+   {
+    "key": "Mount",
+    "value": "Canon RF"
+   },
+   {
+    "key": "Weight",
+    "value": "680 g"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 5
+ },
+ {
+  "id": 34,
+  "slug": "sony-alpha-a7-iv",
+  "name": "Sony Alpha a7 IV",
+  "brand": "Sony",
+  "category": "Cameras",
+  "price": 2498.49,
+  "rating": 4.9,
+  "reviewCount": 1475,
+  "shortDescription": "Versatile hybrid full-frame for photo and video.",
+  "description": "Versatile hybrid full-frame for photo and video. The Sony Alpha a7 IV from Sony is one of our most popular cameras. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Sensor",
+    "value": "33 MP full-frame"
+   },
+   {
+    "key": "Video",
+    "value": "4K 60p"
+   },
+   {
+    "key": "Stabilisation",
+    "value": "5.5-stop IBIS"
+   },
+   {
+    "key": "Mount",
+    "value": "Sony E"
+   },
+   {
+    "key": "Weight",
+    "value": "658 g"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 134
+ },
+ {
+  "id": 35,
+  "slug": "nikon-z6-ii",
+  "name": "Nikon Z6 II",
+  "brand": "Nikon",
+  "category": "Cameras",
+  "price": 1999.0,
+  "rating": 4.7,
+  "reviewCount": 2456,
+  "shortDescription": "Reliable full-frame mirrorless with dual card slots.",
+  "description": "Reliable full-frame mirrorless with dual card slots. The Nikon Z6 II from Nikon is one of our most popular cameras. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Sensor",
+    "value": "24.5 MP full-frame"
+   },
+   {
+    "key": "Video",
+    "value": "4K 60p"
+   },
+   {
+    "key": "Stabilisation",
+    "value": "5-stop IBIS"
+   },
+   {
+    "key": "Mount",
+    "value": "Nikon Z"
+   },
+   {
+    "key": "Weight",
+    "value": "705 g"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 220
+ },
+ {
+  "id": 36,
+  "slug": "fujifilm-x-t5",
+  "name": "Fujifilm X-T5",
+  "brand": "Fujifilm",
+  "category": "Cameras",
+  "price": 1699.0,
+  "rating": 3.8,
+  "reviewCount": 1335,
+  "shortDescription": "Retro-styled APS-C camera with 40 MP resolution.",
+  "description": "Retro-styled APS-C camera with 40 MP resolution. The Fujifilm X-T5 from Fujifilm is one of our most popular cameras. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Sensor",
+    "value": "40.2 MP APS-C"
+   },
+   {
+    "key": "Video",
+    "value": "6.2K 30p"
+   },
+   {
+    "key": "Stabilisation",
+    "value": "7-stop IBIS"
+   },
+   {
+    "key": "Mount",
+    "value": "Fujifilm X"
+   },
+   {
+    "key": "Weight",
+    "value": "557 g"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 143
+ },
+ {
+  "id": 37,
+  "slug": "gopro-hero12-black",
+  "name": "GoPro HERO12 Black",
+  "brand": "GoPro",
+  "category": "Cameras",
+  "price": 399.0,
+  "rating": 4.4,
+  "reviewCount": 4014,
+  "shortDescription": "Waterproof action camera with HyperSmooth 6.0.",
+  "description": "Waterproof action camera with HyperSmooth 6.0. The GoPro HERO12 Black from GoPro is one of our most popular cameras. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Sensor",
+    "value": "27 MP"
+   },
+   {
+    "key": "Video",
+    "value": "5.3K 60p"
+   },
+   {
+    "key": "Waterproof",
+    "value": "10 m"
+   },
+   {
+    "key": "Battery",
+    "value": "Enduro 1720 mAh"
+   },
+   {
+    "key": "Weight",
+    "value": "154 g"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 9
+ },
+ {
+  "id": 38,
+  "slug": "dji-osmo-pocket-3",
+  "name": "DJI Osmo Pocket 3",
+  "brand": "DJI",
+  "category": "Cameras",
+  "price": 519.0,
+  "rating": 4.8,
+  "reviewCount": 2531,
+  "shortDescription": "Pocket gimbal camera with a 1-inch sensor.",
+  "description": "Pocket gimbal camera with a 1-inch sensor. The DJI Osmo Pocket 3 from DJI is one of our most popular cameras. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Sensor",
+    "value": "1\" CMOS"
+   },
+   {
+    "key": "Video",
+    "value": "4K 120p"
+   },
+   {
+    "key": "Stabilisation",
+    "value": "3-axis gimbal"
+   },
+   {
+    "key": "Display",
+    "value": "2\" rotating OLED"
+   },
+   {
+    "key": "Weight",
+    "value": "179 g"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 66
+ },
+ {
+  "id": 39,
+  "slug": "panasonic-lumix-gh6",
+  "name": "Panasonic Lumix GH6",
+  "brand": "Panasonic",
+  "category": "Cameras",
+  "price": 1699.0,
+  "rating": 3.9,
+  "reviewCount": 4659,
+  "shortDescription": "Micro Four Thirds video powerhouse with ProRes.",
+  "description": "Micro Four Thirds video powerhouse with ProRes. The Panasonic Lumix GH6 from Panasonic is one of our most popular cameras. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Sensor",
+    "value": "25.2 MP MFT"
+   },
+   {
+    "key": "Video",
+    "value": "5.7K 60p"
+   },
+   {
+    "key": "Stabilisation",
+    "value": "7.5-stop IBIS"
+   },
+   {
+    "key": "Mount",
+    "value": "Micro Four Thirds"
+   },
+   {
+    "key": "Weight",
+    "value": "823 g"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 247
+ },
+ {
+  "id": 40,
+  "slug": "insta360-x3",
+  "name": "Insta360 X3",
+  "brand": "Insta360",
+  "category": "Cameras",
+  "price": 449.0,
+  "rating": 3.7,
+  "reviewCount": 3993,
+  "shortDescription": "360-degree action camera with invisible selfie stick.",
+  "description": "360-degree action camera with invisible selfie stick. The Insta360 X3 from Insta360 is one of our most popular cameras. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Sensor",
+    "value": "Dual 1/2\""
+   },
+   {
+    "key": "Video",
+    "value": "5.7K 360"
+   },
+   {
+    "key": "Waterproof",
+    "value": "10 m"
+   },
+   {
+    "key": "Display",
+    "value": "2.29\" touchscreen"
+   },
+   {
+    "key": "Weight",
+    "value": "180 g"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 213
+ },
+ {
+  "id": 41,
+  "slug": "logitech-mx-master-3s",
+  "name": "Logitech MX Master 3S",
+  "brand": "Logitech",
+  "category": "Accessories",
+  "price": 99.0,
+  "rating": 4.9,
+  "reviewCount": 4375,
+  "shortDescription": "Precision wireless mouse with quiet clicks and MagSpeed.",
+  "description": "Precision wireless mouse with quiet clicks and MagSpeed. The Logitech MX Master 3S from Logitech is one of our most popular accessories. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Connectivity",
+    "value": "Bluetooth, Logi Bolt"
+   },
+   {
+    "key": "Sensor",
+    "value": "8000 DPI"
+   },
+   {
+    "key": "Battery",
+    "value": "70 days"
+   },
+   {
+    "key": "Buttons",
+    "value": "7"
+   },
+   {
+    "key": "Weight",
+    "value": "141 g"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 201
+ },
+ {
+  "id": 42,
+  "slug": "anker-powercore-20000",
+  "name": "Anker PowerCore 20000",
+  "brand": "Anker",
+  "category": "Accessories",
+  "price": 49.0,
+  "rating": 3.8,
+  "reviewCount": 3905,
+  "shortDescription": "High-capacity power bank for phones and tablets.",
+  "description": "High-capacity power bank for phones and tablets. The Anker PowerCore 20000 from Anker is one of our most popular accessories. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Capacity",
+    "value": "20000 mAh"
+   },
+   {
+    "key": "Output",
+    "value": "20 W USB-C PD"
+   },
+   {
+    "key": "Ports",
+    "value": "USB-C, 2x USB-A"
+   },
+   {
+    "key": "Recharge",
+    "value": "6.5 h"
+   },
+   {
+    "key": "Weight",
+    "value": "356 g"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 247
+ },
+ {
+  "id": 43,
+  "slug": "apple-magic-keyboard",
+  "name": "Apple Magic Keyboard",
+  "brand": "Apple",
+  "category": "Accessories",
+  "price": 99.0,
+  "rating": 3.9,
+  "reviewCount": 3478,
+  "shortDescription": "Wireless keyboard with Touch ID and numeric keypad.",
+  "description": "Wireless keyboard with Touch ID and numeric keypad. The Apple Magic Keyboard from Apple is one of our most popular accessories. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Connectivity",
+    "value": "Bluetooth, Lightning"
+   },
+   {
+    "key": "Layout",
+    "value": "Full-size with keypad"
+   },
+   {
+    "key": "Battery",
+    "value": "1 month"
+   },
+   {
+    "key": "Touch ID",
+    "value": "Yes"
+   },
+   {
+    "key": "Weight",
+    "value": "369 g"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 59
+ },
+ {
+  "id": 44,
+  "slug": "samsung-t7-portable-ssd",
+  "name": "Samsung T7 Portable SSD",
+  "brand": "Samsung",
+  "category": "Accessories",
+  "price": 109.0,
+  "rating": 4.5,
+  "reviewCount": 3280,
+  "shortDescription": "Pocket-sized NVMe SSD with up to 1050 MB/s.",
+  "description": "Pocket-sized NVMe SSD with up to 1050 MB/s. The Samsung T7 Portable SSD from Samsung is one of our most popular accessories. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Capacity",
+    "value": "1 TB"
+   },
+   {
+    "key": "Interface",
+    "value": "USB 3.2 Gen 2"
+   },
+   {
+    "key": "Read speed",
+    "value": "1050 MB/s"
+   },
+   {
+    "key": "Encryption",
+    "value": "AES 256-bit"
+   },
+   {
+    "key": "Weight",
+    "value": "58 g"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 176
+ },
+ {
+  "id": 45,
+  "slug": "belkin-3-in-1-magsafe-charger",
+  "name": "Belkin 3-in-1 MagSafe Charger",
+  "brand": "Belkin",
+  "category": "Accessories",
+  "price": 128.49,
+  "rating": 4.2,
+  "reviewCount": 4251,
+  "shortDescription": "Charge phone, watch and earbuds on one stand.",
+  "description": "Charge phone, watch and earbuds on one stand. The Belkin 3-in-1 MagSafe Charger from Belkin is one of our most popular accessories. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Output",
+    "value": "15 W MagSafe"
+   },
+   {
+    "key": "Devices",
+    "value": "3"
+   },
+   {
+    "key": "Compatibility",
+    "value": "iPhone, Apple Watch, AirPods"
+   },
+   {
+    "key": "Finish",
+    "value": "Matte"
+   },
+   {
+    "key": "Weight",
+    "value": "400 g"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 120
+ },
+ {
+  "id": 46,
+  "slug": "keychron-k2",
+  "name": "Keychron K2",
+  "brand": "Keychron",
+  "category": "Accessories",
+  "price": 89.0,
+  "rating": 3.9,
+  "reviewCount": 536,
+  "shortDescription": "Compact wireless mechanical keyboard for Mac and Windows.",
+  "description": "Compact wireless mechanical keyboard for Mac and Windows. The Keychron K2 from Keychron is one of our most popular accessories. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Layout",
+    "value": "75%"
+   },
+   {
+    "key": "Switches",
+    "value": "Gateron Brown"
+   },
+   {
+    "key": "Connectivity",
+    "value": "Bluetooth 5.1, USB-C"
+   },
+   {
+    "key": "Battery",
+    "value": "4000 mAh"
+   },
+   {
+    "key": "Backlight",
+    "value": "RGB"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 91
+ },
+ {
+  "id": 47,
+  "slug": "sandisk-extreme-microsd-256gb",
+  "name": "SanDisk Extreme microSD 256GB",
+  "brand": "SanDisk",
+  "category": "Accessories",
+  "price": 35.0,
+  "rating": 4.4,
+  "reviewCount": 1897,
+  "shortDescription": "Fast microSD card for 4K cameras and drones.",
+  "description": "Fast microSD card for 4K cameras and drones. The SanDisk Extreme microSD 256GB from SanDisk is one of our most popular accessories. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Capacity",
+    "value": "256 GB"
+   },
+   {
+    "key": "Read speed",
+    "value": "190 MB/s"
+   },
+   {
+    "key": "Write speed",
+    "value": "130 MB/s"
+   },
+   {
+    "key": "Class",
+    "value": "U3, V30, A2"
+   },
+   {
+    "key": "Warranty",
+    "value": "Lifetime limited"
+   }
+  ],
+  "stock": 155
+ },
+ {
+  "id": 48,
+  "slug": "razer-kiyo-pro",
+  "name": "Razer Kiyo Pro",
+  "brand": "Razer",
+  "category": "Accessories",
+  "price": 129.0,
+  "rating": 3.6,
+  "reviewCount": 494,
+  "shortDescription": "Streaming webcam with adaptive light sensor.",
+  "description": "Streaming webcam with adaptive light sensor. The Razer Kiyo Pro from Razer is one of our most popular accessories. It combines thoughtful design with dependable performance, so it is just as comfortable on a daily commute as it is in a demanding workday. Every unit ships with a two-year LoadShop warranty, free returns within 30 days and express delivery on orders over $50.",
+  "specs": [
+   {
+    "key": "Resolution",
+    "value": "1080p 60fps"
+   },
+   {
+    "key": "Sensor",
+    "value": "STARVIS CMOS"
+   },
+   {
+    "key": "Field of view",
+    "value": "103 degrees"
+   },
+   {
+    "key": "HDR",
+    "value": "Yes"
+   },
+   {
+    "key": "Connectivity",
+    "value": "USB 3.0"
+   },
+   {
+    "key": "Warranty",
+    "value": "2 years"
+   }
+  ],
+  "stock": 63
+ }
+]
